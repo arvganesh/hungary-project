@@ -4,11 +4,6 @@
   font-weight: normal;
   font-style: normal;
 }
-
-body {
-  background-color: black; 
-  background-position: top right;
-}
 #divApplab.appModern button.appModernDesign,
 #divApplab.appModern button.appModernDesign:hover {
   padding-top: 0px;
@@ -377,22 +372,6 @@ body {
   top: 45px;
 }
 
-#divApplab.appModern #label9 {
-  color: rgb(255, 255, 255);
-  width: 68px;
-  left: 10px;
-  top: 230px;
-}
-
-#divApplab.appModern #text_area2 {
-  width: 290px;
-  height: 140px;
-  color: rgb(255, 255, 255);
-  background-color: rgb(0, 0, 0);
-  left: 10px;
-  top: 255px;
-}
-
 #divApplab.appModern #elec_screen {
   display: none;
   background-color: rgb(0, 0, 0);
@@ -432,8 +411,8 @@ body {
 }
 
 #divApplab.appModern #tele_screen {
-  display: none;
   background-color: rgb(0, 0, 0);
+  display: none;
 }
 
 #divApplab.appModern #go_back_tele {
@@ -473,7 +452,7 @@ body {
 #divApplab.appModern #tele_4 {
   color: rgb(255, 255, 255);
   width: 305px;
-  height: 47px;
+  height: 50px;
   left: 15px;
   top: 315px;
 }
