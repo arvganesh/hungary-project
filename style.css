@@ -4,6 +4,9 @@
   font-weight: normal;
   font-style: normal;
 }
+body {
+  background-color: black;
+}
 #divApplab.appModern button.appModernDesign,
 #divApplab.appModern button.appModernDesign:hover {
   padding-top: 0px;
@@ -358,11 +361,12 @@
 
 #divApplab.appModern #text_area1 {
   width: 290px;
-  height: 140px;
+  height: 195px;
   color: rgb(255, 255, 255);
   background-color: rgb(0, 0, 0);
   left: 10px;
   top: 70px;
+  text-align: left;
 }
 
 #divApplab.appModern #label8 {
